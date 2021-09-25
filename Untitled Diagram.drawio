@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-25T03:38:13.396Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="XgMyq8n4LANre_5L-iqE" version="15.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-25T03:53:12.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="2MwBfe9qpZSEd5aAwFrd" version="15.3.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="917" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -527,8 +527,13 @@
             <mxPoint x="650" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="neN31dz5l5QV-k453syO-1" value="code" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="neN31dz5l5QV-k453syO-1" value="code(遊戲代碼)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="290" y="180" width="185" height="30" as="geometry">
+            <mxRectangle width="185" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neN31dz5l5QV-k453syO-3" value="code(遊戲商品代碼)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="570" y="500" width="185" height="30" as="geometry">
             <mxRectangle width="185" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
